@@ -1,0 +1,102 @@
+CustomerID,FirstName,LastName,Email,City,ZipCode,PhoneNumber,FavCountry,CreateDate
+0,Linda,Matin,LindaMatin615@msn.com,Los Angeles,68016,2065577867,Romania,2020-04-23
+1,Elmer,Stjohn,Elmer-Stjohn740@aol.com,Bend,86051,4585419862,Liberia,2020-08-21
+2,Roberto,Cordero,Roberto_Cordero935@aol.com,Medford,55098,2097116267,"Congo, The Democratic Republic of the",2020-04-23
+3,Harry,Hayward,Harry-Hayward322@hotmail.com,Olympia,66396,2067812937,Oman,2018-04-22
+4,James,Cooper,James-Cooper869@comcast.net,Salem,78074,2093322873,Canada,2017-11-11
+5,Pamela,Bramer,Pamela_Bramer436@yahoo.com,Portland,72636,7148770144,French Polynesia,2018-08-16
+6,Sylvia,Lumley,Sylvia-Lumley314@aol.com,Los Angeles,70779,5419719685,Canada,2019-06-09
+7,James,Ramey,James-Ramey781@yahoo.com,Eugene,86498,3605988533,Bhutan,2019-06-20
+8,Rosa,Overman,Rosa-Overman232@hotmail.com,Bellevue,37952,5093452620,Maldives,2019-04-28
+9,Gerald,Ballew,Gerald_Ballew712@comcast.net,San Jose,77409,5109964828,Sierra Leone,2017-08-21
+10,Lise,Holman,Lise-Holman14@aol.com,Oregon City,83716,4258179456,Georgia,2018-01-03
+11,Michael,Riley,MichaelkRiley979@comcast.net,San Jose,92741,7077017509,Somalia,2019-10-06
+12,Lori,Gill,Lori-Gill852@comcast.net,Oregon City,50535,5095780443,China,2019-02-23
+13,Mabel,Perry,MabelPerry675@yahoo.com,Bellingham,84106,5414809217,Central African Republic,2017-07-15
+14,Greg,Johnson,Greg-Johnson571@hotmail.com,Los Angeles,61959,2539633800,Guinea,2019-04-14
+15,Mary,Wright,MaryWright964@yahoo.com,Eugene,47296,2134498897,Cuba,2017-02-01
+16,Clifton,Scott,Clifton_Scott669@aol.com,Eugene,61642,2096755666,Austria,2017-12-26
+17,Josefine,Mathews,Josefine-Mathews812@yahoo.com,Bellingham,38477,2065294829,"Iran, Islamic Republic of",2018-10-28
+18,Kimberly,Reyna,KimberlySReyna284@gmail.com,San Diego,79122,4585520275,Mongolia,2018-01-14
+19,Ann,Child,Ann-Child12@gmail.com,Seattle,82094,7073911159,Ukraine,2017-03-19
+20,Gary,Brough,Gary-Brough354@msn.com,Bellingham,51040,5101319879,Tonga,2018-10-11
+21,Brandy,Iorio,Brandy_Iorio34@gmail.com,Salem,71436,7143692789,Cocos (Keeling) Islands,2020-08-29
+22,Joyce,Carlyle,JoyceCarlyle466@comcast.net,Bend,78679,5104469485,Switzerland,2020-08-04
+23,Frances,Yu,FranceslYu578@yahoo.com,Oregon City,39719,5104363418,Australia,2019-07-27
+24,Hilda,Naegeli,Hilda_Naegeli140@yahoo.com,Spokane,64604,2534924147,Cambodia,2018-12-26
+25,Norma,Huerta,Norma-Huerta611@msn.com,Eugene,70808,2094585737,Greenland,2017-05-22
+26,Mellisa,Fischer,MellisaRFischer206@gmail.com,Los Angeles,64421,4253301279,Austria,2020-06-22
+27,George,Lagasse,George-Lagasse930@aol.com,Bellingham,40744,5413865891,Indonesia,2018-10-21
+28,Victor,Lockhart,VictorLockhart171@hotmail.com,Sacramento,33066,4253105796,Bouvet Island,2017-02-10
+29,Mark,Ward,MarktWard616@yahoo.com,Sacramento,73646,2067260077,French Southern Territories,2019-08-02
+30,Cathy,Woods,CathyWoods218@gmail.com,Portland,62489,7147894444,Bangladesh,2018-10-20
+31,Matthew,Cain,Matthew_Cain64@yahoo.com,Eugene,46045,3605572675,Nigeria,2020-08-27
+32,Yolanda,Harrison,YolandaBHarrison329@comcast.net,San Diego,71112,2132481811,Lao People's Democratic Republic,2018-03-26
+33,Belinda,Dawkins,Belinda_Dawkins163@aol.com,Portland,56555,5415571588,Algeria,2017-05-17
+34,Sharee,Mcdaniel,Sharee-Mcdaniel368@aol.com,Bellingham,46937,7148599814,Pitcairn,2018-08-30
+35,Michael,Pompey,MichaelfPompey674@aol.com,Bend,86116,4585676062,"Virgin Islands, U.S.",2017-12-24
+36,Lindsey,Romine,Lindsey_Romine668@comcast.net,Bellevue,45072,2067352345,Uruguay,2018-02-19
+37,Terri,Lopez,Terri-Lopez916@comcast.net,Medford,48103,2535065633,Japan,2019-10-09
+38,Darlene,Olsen,Darlene-Olsen273@gmail.com,Olympia,31192,5032938770,Burundi,2018-10-24
+39,Scott,March,ScottEMarch564@comcast.net,Seattle,47525,2138216778,Benin,2020-05-28
+40,Diana,Reedy,Diana_Reedy610@yahoo.com,San Diego,88636,2093132447,Aruba,2017-05-05
+41,Earl,Tenneson,Earl-Tenneson195@hotmail.com,Seattle,80930,7072030503,Saint Kitts and Nevis,2020-01-02
+42,Linda,Green,LindaZGreen451@msn.com,Medford,31030,2137110642,Liberia,2017-05-02
+43,Ronald,Tanner,Ronald_Tanner756@hotmail.com,Seattle,46752,3608587387,"Virgin Islands, British",2017-09-25
+44,Craig,Otoole,CraigOtoole12@comcast.net,Bellingham,73377,2091389550,Belgium,2017-09-17
+45,Lester,Buford,Lester-Buford629@aol.com,Portland,95853,3605095034,Croatia,2017-07-22
+46,Beth,Dickerson,Beth-Dickerson951@comcast.net,San Diego,48173,2096211375,Turkey,2020-05-23
+47,Steven,Martin,Steven-Martin131@comcast.net,Oregon City,36750,5096497502,Hong Kong,2018-01-16
+48,Diane,Turner,DianeTurner328@msn.com,Sacramento,39536,2091374990,Guernsey,2019-12-15
+49,George,Wilson,GeorgeWilson697@hotmail.com,Sacramento,74543,2066957028,Solomon Islands,2019-06-27
+50,Michael,Shepherd,MichaelyShepherd55@msn.com,Sacramento,65403,4587816189,Andorra,2020-08-02
+51,Ruth,Cocklin,Ruth_Cocklin150@aol.com,Seattle,67641,4586060043,Andorra,2019-12-18
+52,Laura,Wright,Laura_Wright283@msn.com,San Diego,97256,5104632690,Austria,2019-04-18
+53,Barbara,Wesolowski,Barbara-Wesolowski337@hotmail.com,Bellevue,98372,2068197960,Sint Maarten (Dutch part),2019-12-12
+54,Pauline,Moran,Pauline-Moran27@comcast.net,Olympia,89780,5101025262,Bahamas,2017-05-15
+55,Nicole,Ferguson,Nicole-Ferguson415@msn.com,Seattle,82176,5101786771,Palau,2018-01-26
+56,Robert,Tipka,RobertzTipka799@aol.com,Oregon City,53242,5094188142,Cayman Islands,2018-09-19
+57,Virgil,Jackson,VirgilbJackson160@aol.com,Eugene,99030,7144079280,"Micronesia, Federated States of",2018-03-26
+58,Sandra,Emmert,Sandra_Emmert456@hotmail.com,Bellingham,51141,5094683282,Sao Tome and Principe,2020-03-29
+59,Jared,Howard,Jared_Howard23@comcast.net,San Francisco,38058,4583622656,Algeria,2018-12-21
+60,Jason,Bean,Jason-Bean487@aol.com,Portland,62433,5037207907,Guinea,2018-10-01
+61,Ronald,Moody,Ronald-Moody543@aol.com,Eugene,46230,2069087778,Guatemala,2017-12-27
+62,Gerald,Buchanan,Gerald_Buchanan951@comcast.net,Bellingham,81386,7145123799,Belgium,2017-10-09
+63,Andrea,Moorhead,AndreaMoorhead646@yahoo.com,Bend,58821,7075817620,Gambia,2020-08-06
+64,William,Flores,WilliamYFlores817@msn.com,Seattle,34039,5096960490,Slovenia,2018-07-30
+65,Kevin,Payne,KevinuPayne297@comcast.net,Olympia,79534,2061846196,Malawi,2019-10-02
+66,Helene,Clark,HeleneClark303@yahoo.com,Seattle,86658,5098107854,Tajikistan,2019-09-15
+67,Charles,Blanchard,Charles-Blanchard187@comcast.net,Bend,47786,7073058744,"Iran, Islamic Republic of",2019-05-10
+68,Connie,Kinder,ConnieKinder120@gmail.com,Bellevue,61376,7071128200,Mauritius,2020-02-28
+69,Arthur,Mitchell,Arthur_Mitchell445@yahoo.com,San Francisco,42503,7075760307,Myanmar,2017-07-04
+70,Andrew,Crider,Andrew-Crider301@hotmail.com,Portland,99599,3601963241,Réunion,2018-11-26
+71,Jennifer,Rodriguez,JenniferhRodriguez773@yahoo.com,Medford,60665,2067233744,Martinique,2017-05-04
+72,Monique,Cecot,MoniqueCecot552@hotmail.com,Spokane,94868,4256776005,Thailand,2019-01-27
+73,Dolores,Lawson,Dolores_Lawson559@aol.com,Portland,79061,2062022657,Trinidad and Tobago,2017-07-14
+74,Ruby,Schultz,RubyQSchultz406@gmail.com,Bellevue,52412,5097579626,Faroe Islands,2018-08-11
+75,Derrick,Eddy,Derrick-Eddy1@comcast.net,San Jose,32609,3604967010,Lithuania,2020-08-28
+76,David,Collins,DavidCollins783@comcast.net,Tacoma,86714,2535239932,Syrian Arab Republic,2018-06-09
+77,James,Hill,James_Hill35@yahoo.com,Salem,57017,2532926571,Zambia,2019-08-28
+78,Eddie,Doughty,Eddie-Doughty378@msn.com,Tacoma,40141,5091593411,Georgia,2018-02-02
+79,Robert,Payne,RobertPayne803@msn.com,Bend,42939,2131409181,Saint Barthélemy,2019-06-29
+80,Erica,Johnson,Erica_Johnson544@msn.com,Eugene,44149,2532631717,"Congo, The Democratic Republic of the",2019-11-04
+81,Micheal,Carroll,Micheal_Carroll452@aol.com,Bend,90438,5098179184,Ireland,2018-10-30
+82,Timothy,Lawrence,Timothy-Lawrence778@yahoo.com,Los Angeles,78833,2098183402,Jordan,2020-08-05
+83,Chris,Wolf,Chris-Wolf608@comcast.net,Medford,56826,5098814539,Greece,2018-12-21
+84,Junior,Shaw,Junior_Shaw635@yahoo.com,Salem,49371,2137852414,Marshall Islands,2019-04-21
+85,Robert,Watford,Robert_Watford94@comcast.net,Bellevue,67555,2131179669,British Indian Ocean Territory,2020-01-10
+86,Annette,Smith,AnnetteJSmith224@msn.com,Sacramento,94182,4252814623,Azerbaijan,2019-10-25
+87,Mary,Koch,Mary_Koch175@gmail.com,Tacoma,70130,7071070466,India,2020-05-15
+88,Melissa,Burgos,Melissa-Burgos386@comcast.net,Tacoma,41877,5411269040,Bahamas,2020-01-10
+89,Nancy,Colon,NancyColon980@aol.com,San Francisco,88212,4258071489,Holy See (Vatican City State),2018-06-21
+90,Christine,Kelley,Christine_Kelley894@gmail.com,Sacramento,91890,3606001876,Belarus,2018-01-19
+91,Therese,Lankford,Therese_Lankford996@gmail.com,Spokane,66222,4581754143,Thailand,2017-07-22
+92,Carla,Shepard,CarlaShepard419@aol.com,Bellingham,37039,7147618254,Benin,2017-02-06
+93,Robert,Dennis,RobertvDennis964@msn.com,Oregon City,99862,2537000464,Pitcairn,2018-05-07
+94,Ronald,Rufenacht,RonaldfRufenacht446@msn.com,San Jose,88178,2537312096,Ireland,2019-12-22
+95,Sandra,Jackson,SandraJackson94@aol.com,Tacoma,49329,3609172098,Bangladesh,2017-07-19
+96,Christopher,Erickson,ChristopherErickson292@yahoo.com,Oregon City,79684,7141178894,Spain,2020-02-09
+97,Stella,Bryant,StellaqBryant581@aol.com,Spokane,77590,2095948973,Belgium,2018-02-23
+98,Anthony,Brown,AnthonyQBrown856@comcast.net,Salem,42559,5096298783,Italy,2020-08-25
+99,Jayne,Eliott,JayneEliott202@hotmail.com,Bellingham,46646,2135916711,Singapore,2017-02-12
+100,Vivian,Bredesen,VivianNBredesen225@msn.com,Los Angeles,35196,5107398767,Uzbekistan,2017-06-06
